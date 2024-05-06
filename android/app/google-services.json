@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "870491578136",
+    "project_id": "megan-ai-422005",
+    "storage_bucket": "megan-ai-422005.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:870491578136:android:54e41d4127249c2d83086d",
+        "android_client_info": {
+          "package_name": "com.example.ai_driven_essay_application_flutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7QnSisKKsY4D-Rm1L2lGSP4lDU0f0rO4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
