@@ -1,1 +1,1 @@
-const openAiApiKey = 'Tera_API_Daal';
+const openAiApiKey = 'YOUR_API_KEY';
